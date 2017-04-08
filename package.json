@@ -1,0 +1,17 @@
+{
+  "name": "nuvi-socialthreat-frontend",
+  "version": "1.0.0",
+  "description": "Front end for Social Theat",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Benjamin Carlisle",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "~1.5.8",
+    "angular-route": "~1.5.8",
+    "bootstrap": "~4.0.0-alpha.6",
+    "jquery": "~3.1.1",
+  }
+}
